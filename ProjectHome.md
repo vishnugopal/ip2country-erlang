@@ -1,0 +1,1 @@
+Loads the ip2country database into mnesia tables, and then performs lookups.
